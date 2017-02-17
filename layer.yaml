@@ -1,2 +1,2 @@
-includes: ['layer:basic', 'interface:mongodb', 'interface:limeds']
+includes: ['layer:basic', 'interface:mongodb', 'layer:limeds-sidecar']
 repo: git@github.com:IBCNServices/layer-limeds-mongodb.git
